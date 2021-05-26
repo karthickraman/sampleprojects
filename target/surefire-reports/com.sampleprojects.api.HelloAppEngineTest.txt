@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sampleprojects.api.HelloAppEngineTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.309 s - in com.sampleprojects.api.HelloAppEngineTest
